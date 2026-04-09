@@ -15,4 +15,4 @@ We focus on web tooling, CSS frameworks, and browser-native experiences. No bloa
 
 ---
 
-[Website](https://s17hq.github.io) · [X](https://x.com/s17hq) · [Discord](https://discord.gg/s17hq)
+[Website](https://s17hq.github.io) · [X](https://x.com/s17hq) · [Discord](https://discord.gg/dDGbjKTVH2)
