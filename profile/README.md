@@ -1,17 +1,14 @@
 ## Syntax17
 
-Building efficient, lightweight software — one deliberate line at a time.
-
-We focus on web tooling, CSS frameworks, and browser-native experiences. No bloat. No noise. Just things that work.
+Building efficient, lightweight software for the modern web.
 
 ---
 
-**Active projects**
+**Child organizations**
 
-| Project | Description |
+| Name | Description |
 |---|---|
 | [s17 Labs](https://github.com/s17labs) | Dev & experimental arm — active builds and open-source releases |
-| [minimal-ui](https://github.com/s17labs/minimal-ui) | Minimalist CSS framework for rapid prototyping |
 
 ---
 
