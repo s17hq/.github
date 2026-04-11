@@ -7,9 +7,6 @@
 <p align="center">
   Building efficient, lightweight software for the modern web.
 </p>
-
----
-
 <p align="center">
   <a href="https://s17hq.github.io">Website</a> • 
   <a href="https://github.com/s17labs">s17 Labs</a> • 
