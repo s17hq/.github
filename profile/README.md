@@ -1,15 +1,18 @@
-## Syntax17
+<p align="center">
+  <a href="https://github.com/s17hq">
+    <img width="240" height="102" alt="Syntax17" src="https://github.com/user-attachments/assets/5aa20c73-6688-4197-8c2e-aaa4cc93687d" />
+  </a>
+</p>
 
-Building efficient, lightweight software for the modern web.
-
----
-
-**Child organizations**
-
-| Name | Description |
-|---|---|
-| [s17 Labs](https://github.com/s17labs) | Dev & experimental arm — active builds and open-source releases |
+<p align="center">
+  Building efficient, lightweight software for the modern web.
+</p>
 
 ---
 
-[Website](https://s17hq.github.io) · [X](https://x.com/s17hq) · [Discord](https://discord.gg/dDGbjKTVH2)
+<p align="center">
+  <a href="https://s17hq.github.io">Website</a> • 
+  <a href="https://github.com/s17labs">s17 Labs</a> • 
+  <a href="https://x.com/s17hq">X (Twitter)</a> • 
+  <a href="https://discord.gg/dDGbjKTVH2">Discord</a>
+</p>
